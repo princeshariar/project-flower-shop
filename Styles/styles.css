@@ -114,3 +114,146 @@ main section {
     gap: 25px;
     margin-top: 50px;
 }
+
+/* ------------------- */
+.customer-support {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    margin-top: 85px;
+    margin-bottom: 0;
+}
+
+.delivery {
+    margin-top: 25px;
+    margin-bottom: 85px;
+}
+
+/* ------------------------ */
+
+.hot-deal-container {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    /* gap: 190px; */
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.hot-deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+.banner-img {
+    margin-top: 100px;
+    margin-bottom: 100px
+}
+
+.hot-deal-info {
+    padding: 0 240px;
+}
+
+span {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+
+/* -------------------------- */
+.social-container {}
+
+.insta {
+    font-size: 40px;
+    text-align: center;
+}
+
+.insta-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    /* 166.667% */
+    margin-bottom: 0;
+}
+
+
+
+
+.social-cover-pic {
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+}
+
+
+
+.contract {
+    text-align: center;
+    background-image: url('../images/Rectangle\ 9.png');
+}
+
+.latest-deal {
+    padding-top: 120px;
+}
+
+input {
+    padding: 20px 500px 20px 20px;
+    background-color: white;
+    margin-bottom: 120px;
+    border: none;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+
+
+
+footer {
+    background-color: black;
+    
+}
+
+footer section {
+    align-items: center;
+    text-align: center;
+}
+
+
+.shop {
+    color: #FFF;
+
+    font-size: 48px;
+
+    font-weight: 900;
+
+}
+.footer-title{
+    padding-top: 130px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+
+    /* 166.667% */
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 130px;
+}
